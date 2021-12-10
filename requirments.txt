@@ -1,0 +1,6 @@
+sys
+requests
+filecmd
+pyqt5
+pymongo
+urllib
