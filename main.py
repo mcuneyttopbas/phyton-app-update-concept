@@ -8,7 +8,7 @@ from Ui.Window.app_ui import Window
 
 #   Program needs github username and repo informations to check documents if it's version updated or not.
 github = "mcuneyttopbas"
-repo = "phyton-app-model"
+repo = "phyton-app-update-concept"
 
 #   Updater Manager is compare local and online "version.txt" documents, if there is difference, starts to find changes then replace it.
 update_manager = up.Updater(github,repo)
