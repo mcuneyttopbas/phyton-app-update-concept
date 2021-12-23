@@ -1,4 +1,5 @@
-# phyton-app-model
+# phyton-app-update-concept
+
 A test study on modeling an updatable and multi-window Pyhton application.
 This work helps to understand modelling of updatable Phyton app with multi-window desktop application. 
 Please be aware in this project, mostly focused on the features of the application rather than its functions. 
