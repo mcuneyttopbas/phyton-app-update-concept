@@ -4,6 +4,7 @@ import urllib
 import requests
 import filecmp
 
+print("Hello World")
 
 class Updater: 
     def __init__(self,github, repo):
